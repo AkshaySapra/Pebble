@@ -1,0 +1,21 @@
+{
+    "author": "michaelsapra@hotmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "first",
+    "pebble": {
+        "displayName": "first",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "43f98d89-d62b-476f-92bc-dac7571e18e9",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
